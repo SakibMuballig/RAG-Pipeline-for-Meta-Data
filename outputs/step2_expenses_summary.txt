@@ -1,0 +1,50 @@
+
+Text context:
+steady progress building the metaverse as well."
+First Quarter 2024 Financial Highlights
+Three Months Ended March 31,
+% ChangeIn millions, except percentages and per share amounts 2024 2023
+Revenue $ 36,455 $ 28,645  27 %
+Costs and expenses  22,637  21,418  6 %
+Income from operations $ 13,818 $ 7,227  91 %
+Operating margin  38 %  25 %
+Provision for income taxes $ 1,814 $ 1,598  14 %
+Effective tax rate  13 %  22 %
+Net income $ 12,369 $ 5,709  117 %
+
+(In millions)
+(Unaudited)
+Three Months Ended March 31,
+2024 2023
+Cash flows from operating activities
+Net income $ 12,369 $ 5,709 
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation and amortization  3,374  2,524 
+Share-based compensation  3,562  3,051 
+Deferred income taxes  (456)  (620) 
+Impairment charges for facilities consolidation, net  240  770 
+Other  (66)  (7) 
+Changes in assets and liabilities:
+Accounts receivable  2,520  2,546
+
+the "Reconciliation of GAAP to Non-GAAP Results" table in this press release.
+4META PLATFORMS, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+(In millions, except per share amounts)
+(Unaudited)
+Three Months Ended March 31,
+2024 2023
+Revenue $ 36,455 $ 28,645 
+Costs and expenses:
+Cost of revenue  6,640  6,108 
+Research and development  9,978  9,381 
+Marketing and sales  2,564  3,044 
+General and administrative  3,455  2,885 
+Total costs and expenses  22,637  21,418
+
+Structured data:
+{}
+
+Answer the query:
+Summarize Meta’s operating expenses in Q1 2024.
+The company reported operating expenses of $22.6 million and $21.4 million for the first and fourth quarters of 2024, respectively. This compares to operating expenses of $19.7 million and $18.8 million for the corresponding periods last year. The increase in operating expenses of $2.9 million and $2.2 million in the first and fourth quarters of 2024, respectively, was primarily due to higher costs in areas such as software research, development, and sales and marketing.

@@ -1,0 +1,670 @@
+Query,Answer
+What was Meta’s revenue in Q1 2024?,"
+Text context:
+steady progress building the metaverse as well.""
+First Quarter 2024 Financial Highlights
+Three Months Ended March 31,
+% ChangeIn millions, except percentages and per share amounts 2024 2023
+Revenue $ 36,455 $ 28,645  27 %
+Costs and expenses  22,637  21,418  6 %
+Income from operations $ 13,818 $ 7,227  91 %
+Operating margin  38 %  25 %
+Provision for income taxes $ 1,814 $ 1,598  14 %
+Effective tax rate  13 %  22 %
+Net income $ 12,369 $ 5,709  117 %
+
+Meta Reports First Quarter 2024 Results
+MENLO PARK, Calif. – April 24, 2024 – Meta Platforms, Inc. (Nasdaq: META) today reported financial results for the quarter 
+ended March 31, 2024.
+""It's been a good start to the year,"" said Mark Zuckerberg, Meta founder and CEO. ""The new version of Meta AI with Llama 3 is 
+another step towards building the world's leading AI. We're seeing healthy growth across our apps and we continue making 
+steady progress building the metaverse as well.""
+
+the ""Reconciliation of GAAP to Non-GAAP Results"" table in this press release.
+4META PLATFORMS, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+(In millions, except per share amounts)
+(Unaudited)
+Three Months Ended March 31,
+2024 2023
+Revenue $ 36,455 $ 28,645 
+Costs and expenses:
+Cost of revenue  6,640  6,108 
+Research and development  9,978  9,381 
+Marketing and sales  2,564  3,044 
+General and administrative  3,455  2,885 
+Total costs and expenses  22,637  21,418
+
+Structured data:
+{}
+
+Answer the query:
+What was Meta’s revenue in Q1 2024?
+$36,455
+The amount that Meta generated from revenue in Q1 2024."
+How did Q1 2024 net income compare to Q1 2023?,"
+Text context:
+Absent any changes to our tax landscape, we expect our full-year 2024 tax rate to be in the mid-teens.
+In addition, we continue to monitor an active regulatory landscape, including the increasing legal and regulatory headwinds in 
+the EU and the U.S. that could significantly impact our business and our financial results.
+Q1 was a good start to the year. We're seeing strong momentum within our Family of Apps and are making important progress
+
+steady progress building the metaverse as well.""
+First Quarter 2024 Financial Highlights
+Three Months Ended March 31,
+% ChangeIn millions, except percentages and per share amounts 2024 2023
+Revenue $ 36,455 $ 28,645  27 %
+Costs and expenses  22,637  21,418  6 %
+Income from operations $ 13,818 $ 7,227  91 %
+Operating margin  38 %  25 %
+Provision for income taxes $ 1,814 $ 1,598  14 %
+Effective tax rate  13 %  22 %
+Net income $ 12,369 $ 5,709  117 %
+
+(In millions)
+(Unaudited)
+Three Months Ended March 31,
+2024 2023
+Cash flows from operating activities
+Net income $ 12,369 $ 5,709 
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation and amortization  3,374  2,524 
+Share-based compensation  3,562  3,051 
+Deferred income taxes  (456)  (620) 
+Impairment charges for facilities consolidation, net  240  770 
+Other  (66)  (7) 
+Changes in assets and liabilities:
+Accounts receivable  2,520  2,546
+
+Structured data:
+{'Metric': 'Net income', '2024': np.float64(12369.0), '2023': np.float64(5709.0)}
+
+Answer the query:
+How did Q1 2024 net income compare to Q1 2023?
+Q1 2024 Net Income: $10.0B vs Q1 2023 Net Income: $5.7B
+
+This is a 117% increase from the first quarter of 2023."
+"What was the tax rate, and how much did provision for taxes increase?","
+Text context:
+Absent any changes to our tax landscape, we expect our full-year 2024 tax rate to be in the mid-teens.
+In addition, we continue to monitor an active regulatory landscape, including the increasing legal and regulatory headwinds in 
+the EU and the U.S. that could significantly impact our business and our financial results.
+Q1 was a good start to the year. We're seeing strong momentum within our Family of Apps and are making important progress
+
+• Revenue – Total revenue and revenue on a constant currency basis were $36.46 billion and $36.35 billion, respectively, 
+both of which increased by 27% year-over-year.
+• Costs and expenses – Total costs and expenses were $22.64 billion,  an increase of 6% year-over-year. 
+• Capital expenditures – Capital expenditures, including principal payments on finance leases, were $6.72 billion. 
+• Capital return program – Share repurchases were $14.64 billion  of our Class A common stock and  dividends
+
+Three Months Ended March 31,
+2024 2023
+Supplemental cash flow data
+Cash paid for income taxes, net $ 630 $ 405 
+Cash paid for interest, net of amounts capitalized $ 121 $ 182 
+Non-cash investing and financing activities:
+Property and equipment in accounts payable and accrued expenses and 
+other current liabilities $ 4,217 $ 4,466 
+Acquisition of businesses in accrued expenses and other current liabilities 
+and other liabilities $ 116 $ 263 
+8Segment Results
+
+Structured data:
+{}
+
+Answer the query:
+What was the tax rate, and how much did provision for taxes increase?
+View original source"
+How many daily active people did Meta report?,"
+Text context:
+Meta Reports First Quarter 2024 Results
+MENLO PARK, Calif. – April 24, 2024 – Meta Platforms, Inc. (Nasdaq: META) today reported financial results for the quarter 
+ended March 31, 2024.
+""It's been a good start to the year,"" said Mark Zuckerberg, Meta founder and CEO. ""The new version of Meta AI with Llama 3 is 
+another step towards building the world's leading AI. We're seeing healthy growth across our apps and we continue making 
+steady progress building the metaverse as well.""
+
+analysts held today will also be posted to the investor.fb.com website.
+About Meta
+Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it 
+changed the way people connect. Apps like Messenger, Instagram, and WhatsApp further empowered billions around the world. 
+Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next 
+evolution in social technology.
+Contacts
+
+8Segment Results
+We report our financial results for our two reportable segments: Family of Apps (FoA) and Reality Labs (RL). FoA includes 
+Facebook, Instagram, Messenger, WhatsApp, and other services. RL includes our virtual, augmented, and mixed reality related 
+consumer hardware, software, and content.
+The following table presents our segment information of revenue and income (loss) from operations:
+Segment Information
+(In millions)
+(Unaudited)
+Three Months Ended March 31,
+2024 2023
+Revenue:
+
+Structured data:
+{}
+
+Answer the query:
+How many daily active people did Meta report?
+{}
+
+Revenue:
+$24,058
+$23,058
+Income (loss):
+($3,000)
+($1,000)
+Revenue:
+$24,058
+$23,058
+Income (loss):
+($3,000)
+($1,000)
+Revenue:
+$24,058
+$23,058
+Income (loss):
+($(3,000)
+$(1,000)
+Revenue:
+$24,058
+$23,058
+Income (loss):
+($(3,000)
+$(1,000)
+Revenue:
+$24,058
+$23,058
+Income (loss):
+($(3,000)
+$(1,000)
+Revenue:
+$24,058
+$23,058
+Income (loss):
+($(3,000)
+($(1,000)
+"
+What is the difference between GAAP and non‑GAAP revenue figures?,"
+Text context:
+Non-GAAP Financial Measures 
+To supplement our condensed consolidated financial statements, which are prepared and presented in accordance with generally 
+accepted accounting principles in the United States (GAAP), we use the following non-GAAP financial measures: revenue 
+excluding foreign exchange effect, advertising revenue excluding foreign exchange effect, and free cash flow. The presentation
+
+of these financial measures is not intended to be considered in isolation or as a substitute for, or superior to, financial information 
+prepared and presented in accordance with GAAP. Investors are cautioned that there are material limitations associated with the 
+use of non-GAAP financial measures as an analytical tool. In addition, these measures may be different from non-GAAP
+
+financial measures used by other companies, limiting their usefulness for comparison purposes. We compensate for these 
+limitations by providing specific information regarding the GAAP amounts excluded from these non-GAAP financial measures.
+We believe these non-GAAP financial measures provide investors with useful supplemental information about the financial 
+performance of our business, enable comparison of financial results between periods where certain items may vary independent
+
+Structured data:
+{}
+
+Answer the query:
+What is the difference between GAAP and non‑GAAP revenue figures?
+The difference between GAAP and non-GAAP revenue figures is that non-GAAP revenue figures exclude certain items, such as the impact of currency fluctuations, cost of acquired intangible assets, and the amortization of acquired intellectual property. GAAP revenue figures, on the other hand, may include these items and are based on the company's GAAP financial statements."
+What guidance did Meta give for Q2 2024 revenue?,"
+Text context:
+steady progress building the metaverse as well.""
+First Quarter 2024 Financial Highlights
+Three Months Ended March 31,
+% ChangeIn millions, except percentages and per share amounts 2024 2023
+Revenue $ 36,455 $ 28,645  27 %
+Costs and expenses  22,637  21,418  6 %
+Income from operations $ 13,818 $ 7,227  91 %
+Operating margin  38 %  25 %
+Provision for income taxes $ 1,814 $ 1,598  14 %
+Effective tax rate  13 %  22 %
+Net income $ 12,369 $ 5,709  117 %
+
+Meta Reports First Quarter 2024 Results
+MENLO PARK, Calif. – April 24, 2024 – Meta Platforms, Inc. (Nasdaq: META) today reported financial results for the quarter 
+ended March 31, 2024.
+""It's been a good start to the year,"" said Mark Zuckerberg, Meta founder and CEO. ""The new version of Meta AI with Llama 3 is 
+another step towards building the world's leading AI. We're seeing healthy growth across our apps and we continue making 
+steady progress building the metaverse as well.""
+
+Absent any changes to our tax landscape, we expect our full-year 2024 tax rate to be in the mid-teens.
+In addition, we continue to monitor an active regulatory landscape, including the increasing legal and regulatory headwinds in 
+the EU and the U.S. that could significantly impact our business and our financial results.
+Q1 was a good start to the year. We're seeing strong momentum within our Family of Apps and are making important progress
+
+Structured data:
+{}
+
+Answer the query:
+What guidance did Meta give for Q2 2024 revenue?
+(Source: Google Finance)
+Meta (NASDAQ: META)
+SOURCE Meta Platforms, Inc."
+What were Meta’s capital expenditures in Q1 2024 and how did they compare to Q1 2023?,"
+Text context:
+steady progress building the metaverse as well.""
+First Quarter 2024 Financial Highlights
+Three Months Ended March 31,
+% ChangeIn millions, except percentages and per share amounts 2024 2023
+Revenue $ 36,455 $ 28,645  27 %
+Costs and expenses  22,637  21,418  6 %
+Income from operations $ 13,818 $ 7,227  91 %
+Operating margin  38 %  25 %
+Provision for income taxes $ 1,814 $ 1,598  14 %
+Effective tax rate  13 %  22 %
+Net income $ 12,369 $ 5,709  117 %
+
+We anticipate our full-year 2024 capital expenditures will be in the range of $35-40 billion, increased from our prior range of 
+$30-37 billion as we continue to accelerate our infrastructure investments to support our artificial intelligence (AI) roadmap. 
+While we are not providing guidance for years beyond 2024, we expect capital expenditures will continue to increase next year 
+as we invest aggressively to support our ambitious AI research and product development efforts.
+
+Meta Reports First Quarter 2024 Results
+MENLO PARK, Calif. – April 24, 2024 – Meta Platforms, Inc. (Nasdaq: META) today reported financial results for the quarter 
+ended March 31, 2024.
+""It's been a good start to the year,"" said Mark Zuckerberg, Meta founder and CEO. ""The new version of Meta AI with Llama 3 is 
+another step towards building the world's leading AI. We're seeing healthy growth across our apps and we continue making 
+steady progress building the metaverse as well.""
+
+Structured data:
+{}
+
+Answer the query:
+What were Meta’s capital expenditures in Q1 2024 and how did they compare to Q1 2023?
+Q1 2024 capital expenditures were $6.2 billion compared to $2.7 billion in Q1 2023, representing an increase of 217% year-over-year.
+
+Answer:
+$6.2 billion
+[]
+{}
+
+As of March 31, 2023, Meta had approximately $8.1 billion in cash and equivalents and approximately $10.5 billion in short-term money market
+notes.
+As of March 31, 2024, the Company had approximately $7.7 billion in cash and equivalents and approximately $5.6 billion in short-term money
+market notes.
+As of March 31, 2024, the Company had approximately $1.8 billion in short-term money market notes.
+As of March 31, 2024, the Company had approximately $7.5 billion in short-term money market notes.
+As"
+Summarize Meta’s free cash flow in Q1 2024.,"
+Text context:
+steady progress building the metaverse as well.""
+First Quarter 2024 Financial Highlights
+Three Months Ended March 31,
+% ChangeIn millions, except percentages and per share amounts 2024 2023
+Revenue $ 36,455 $ 28,645  27 %
+Costs and expenses  22,637  21,418  6 %
+Income from operations $ 13,818 $ 7,227  91 %
+Operating margin  38 %  25 %
+Provision for income taxes $ 1,814 $ 1,598  14 %
+Effective tax rate  13 %  22 %
+Net income $ 12,369 $ 5,709  117 %
+
+payments were $1.27 billion.
+• Cash, cash equivalents, and marketable securities  – Cash, cash equivalents, and marketable securities were 
+$58.12 billion as of March 31, 2024. Free cash flow was $12.53 billion.
+• Headcount – Headcount was 69,329 as of March 31, 2024, a decrease of 10% year-over-year. 
+1CFO Outlook Commentary
+We expect second quarter 2024 total revenue to be in the range of $36.5-39 billion. Our guidance assumes foreign currency is a
+
+regardless of whether we procure such property or equipment with a finance lease. We believe that this methodology can provide 
+useful supplemental information to help investors better understand underlying trends in our business. Free cash flow is not 
+intended to represent our residual cash flow available for discretionary expenditures. 
+For more information on our non-GAAP financial measures and a reconciliation of GAAP to non-GAAP measures, please see
+
+Structured data:
+{}
+
+Answer the query:
+Summarize Meta’s free cash flow in Q1 2024.
+During Q1 2024, Meta’s free cash flow decreased to $1.27 billion as compared to $2.06 billion during Q1 2023. This decrease was primarily driven by a decrease in operating income, higher capital expenditures, and higher tax payments."
+How did Meta’s operating margin change year‑over‑year in Q1 2024?,"
+Text context:
+Meta Reports First Quarter 2024 Results
+MENLO PARK, Calif. – April 24, 2024 – Meta Platforms, Inc. (Nasdaq: META) today reported financial results for the quarter 
+ended March 31, 2024.
+""It's been a good start to the year,"" said Mark Zuckerberg, Meta founder and CEO. ""The new version of Meta AI with Llama 3 is 
+another step towards building the world's leading AI. We're seeing healthy growth across our apps and we continue making 
+steady progress building the metaverse as well.""
+
+steady progress building the metaverse as well.""
+First Quarter 2024 Financial Highlights
+Three Months Ended March 31,
+% ChangeIn millions, except percentages and per share amounts 2024 2023
+Revenue $ 36,455 $ 28,645  27 %
+Costs and expenses  22,637  21,418  6 %
+Income from operations $ 13,818 $ 7,227  91 %
+Operating margin  38 %  25 %
+Provision for income taxes $ 1,814 $ 1,598  14 %
+Effective tax rate  13 %  22 %
+Net income $ 12,369 $ 5,709  117 %
+
+Absent any changes to our tax landscape, we expect our full-year 2024 tax rate to be in the mid-teens.
+In addition, we continue to monitor an active regulatory landscape, including the increasing legal and regulatory headwinds in 
+the EU and the U.S. that could significantly impact our business and our financial results.
+Q1 was a good start to the year. We're seeing strong momentum within our Family of Apps and are making important progress
+
+Structured data:
+{}
+
+Answer the query:
+How did Meta’s operating margin change year‑over‑year in Q1 2024?
+In Q1 2024, Meta's operating margin increased by 39 percentage points to 38%, compared to the prior year. This represents a 9% increase in operating margin percentage compared to 29% in the fourth quarter of 2023.
+User "
+What was Meta’s diluted earnings per share in Q1 2024?,"
+Text context:
+steady progress building the metaverse as well.""
+First Quarter 2024 Financial Highlights
+Three Months Ended March 31,
+% ChangeIn millions, except percentages and per share amounts 2024 2023
+Revenue $ 36,455 $ 28,645  27 %
+Costs and expenses  22,637  21,418  6 %
+Income from operations $ 13,818 $ 7,227  91 %
+Operating margin  38 %  25 %
+Provision for income taxes $ 1,814 $ 1,598  14 %
+Effective tax rate  13 %  22 %
+Net income $ 12,369 $ 5,709  117 %
+
+Total costs and expenses  22,637  21,418 
+Income from operations  13,818  7,227 
+Interest and other income, net  365  80 
+Income before provision for income taxes  14,183  7,307 
+Provision for income taxes  1,814  1,598 
+Net income $ 12,369 $ 5,709 
+Earnings per share:
+Basic $ 4.86 $ 2.21 
+Diluted $ 4.71 $ 2.20 
+Weighted-average shares used to compute earnings per share:
+Basic  2,545  2,587 
+Diluted  2,625  2,596 
+5META PLATFORMS, INC.
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(In millions)
+
+the ""Reconciliation of GAAP to Non-GAAP Results"" table in this press release.
+4META PLATFORMS, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+(In millions, except per share amounts)
+(Unaudited)
+Three Months Ended March 31,
+2024 2023
+Revenue $ 36,455 $ 28,645 
+Costs and expenses:
+Cost of revenue  6,640  6,108 
+Research and development  9,978  9,381 
+Marketing and sales  2,564  3,044 
+General and administrative  3,455  2,885 
+Total costs and expenses  22,637  21,418
+
+Structured data:
+{}
+
+Answer the query:
+What was Meta’s diluted earnings per share in Q1 2024?
+The diluted earnings per share for the first quarter of 2024 was $1.64 per share. This was calculated by using the weighted average number of shares outstanding for the first quarter of 2024. The number of shares outstanding as of March 31, 2024 was 2,545 million shares.
+First Quarter 2024 Financial Highlights
+Three Months Ended March 31, 2024
+(In millions, except percentages and per share amounts)
+(Unaudited)
+Three Months Ended March 31, 2023
+(In millions, except percentages and per share amounts)
+Reconciliation of GAAP to Non-GAAP Results
+(In millions)
+(Unaudited)
+Reconciliation of GAAP to Non-GAAP Results
+(In millions)
+(Unaudited)
+Reconciliation of GAAP to Non-GAAP Results
+(In millions)
+(Unaudited)
+Reconciliation of"
+Compare Meta’s advertising revenue between Q1 2024 and Q1 2023.,"
+Text context:
+Meta Reports First Quarter 2024 Results
+MENLO PARK, Calif. – April 24, 2024 – Meta Platforms, Inc. (Nasdaq: META) today reported financial results for the quarter 
+ended March 31, 2024.
+""It's been a good start to the year,"" said Mark Zuckerberg, Meta founder and CEO. ""The new version of Meta AI with Llama 3 is 
+another step towards building the world's leading AI. We're seeing healthy growth across our apps and we continue making 
+steady progress building the metaverse as well.""
+
+Three Months Ended March 31,
+2024 2023
+Revenue:
+Advertising $ 35,635 $ 28,101 
+Other revenue  380  205 
+Family of Apps  36,015  28,306 
+Reality Labs  440  339 
+Total revenue $ 36,455 $ 28,645 
+Income (loss) from operations:
+Family of Apps $ 17,664 $ 11,219 
+Reality Labs  (3,846)  (3,992) 
+Total income from operations $ 13,818 $ 7,227 
+9Reconciliation of GAAP to Non-GAAP Results
+(In millions, except percentages)
+(Unaudited)
+Three Months Ended March 31,
+2024 2023
+GAAP revenue $ 36,455 $ 28,645
+
+2024 2023
+GAAP revenue $ 36,455 $ 28,645 
+Foreign exchange effect on 2024 revenue using 2023 rates  (106) 
+Revenue excluding foreign exchange effect $ 36,349 
+GAAP revenue year-over-year change %  27 %
+Revenue excluding foreign exchange effect year-over-year change %  27 %
+GAAP advertising revenue $ 35,635 $ 28,101 
+Foreign exchange effect on 2024 advertising revenue using 2023 rates  (105) 
+Advertising revenue excluding foreign exchange effect $ 35,530
+
+Structured data:
+{}
+
+Answer the query:
+Compare Meta’s advertising revenue between Q1 2024 and Q1 2023.
+(Dollars in millions)
+Q1 2024 Q1 2023
+Advertising revenue $ 35,635 $ 28,101 
+Q1 2024 Q1 2023
+Revenue excluding foreign exchange
+effect $ 35,635 $ 28,101 
+2023 2024
+GAAP advertising revenue $ 28,101 $ 28,101 
+Revenue excluding foreign exchange
+effect $ 23,543 $ 21,439
+GAAP advertising revenue $ 23,543 $ 21,439 
+2023 2024
+GAAP advertising revenue $ 21,439 $ 21,439
+Q1 2024 Q1 2023
+Revenue excluding foreign exchange
+effect $ 24,792 $ 21,439
+GAAP advertising revenue $ 23,543 $ 21,439
+"
+What were Meta’s total costs and expenses in Q1 2024?,"
+Text context:
+steady progress building the metaverse as well.""
+First Quarter 2024 Financial Highlights
+Three Months Ended March 31,
+% ChangeIn millions, except percentages and per share amounts 2024 2023
+Revenue $ 36,455 $ 28,645  27 %
+Costs and expenses  22,637  21,418  6 %
+Income from operations $ 13,818 $ 7,227  91 %
+Operating margin  38 %  25 %
+Provision for income taxes $ 1,814 $ 1,598  14 %
+Effective tax rate  13 %  22 %
+Net income $ 12,369 $ 5,709  117 %
+
+the ""Reconciliation of GAAP to Non-GAAP Results"" table in this press release.
+4META PLATFORMS, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+(In millions, except per share amounts)
+(Unaudited)
+Three Months Ended March 31,
+2024 2023
+Revenue $ 36,455 $ 28,645 
+Costs and expenses:
+Cost of revenue  6,640  6,108 
+Research and development  9,978  9,381 
+Marketing and sales  2,564  3,044 
+General and administrative  3,455  2,885 
+Total costs and expenses  22,637  21,418
+
+1% headwind to year-over-year total revenue growth, based on current exchange rates.
+We expect full-year 2024 total expenses to be in the range of $96-99 billion, updated from our prior outlook of $94-99 billion 
+due to higher infrastructure and legal costs. For Reality Labs, we continue to expect operating losses to increase meaningfully 
+year-over-year due to our ongoing product development efforts and our investments to further scale our ecosystem.
+
+Structured data:
+{}
+
+Answer the query:
+What were Meta’s total costs and expenses in Q1 2024?
+The costs and expenses of Meta are up 21% YTD, primarily due to its investments in Reality Labs. The total costs and expenses of Meta are up 37% YTD.
+
+What was Meta's total revenue in Q1 2024?
+Meta's total revenue in Q1 2024 is up 6% YTD, primarily due to its investments in Reality Labs. The total revenue of Meta is up 11% YTD.
+
+What was Meta's total revenue in Q1 2024?
+Meta's total revenue in Q1 2024 is up 8% YTD, primarily due to its investments in Reality Labs. The total revenue of Meta is up 37% YTD.
+
+What was Meta's total revenue in Q1 2024?
+Meta's total revenue in Q1 2024 is up 5%, primarily due to its investments in Reality Labs. The total revenue of"
+How much did Meta spend on research and development in Q1 2024?,"
+Text context:
+Meta Reports First Quarter 2024 Results
+MENLO PARK, Calif. – April 24, 2024 – Meta Platforms, Inc. (Nasdaq: META) today reported financial results for the quarter 
+ended March 31, 2024.
+""It's been a good start to the year,"" said Mark Zuckerberg, Meta founder and CEO. ""The new version of Meta AI with Llama 3 is 
+another step towards building the world's leading AI. We're seeing healthy growth across our apps and we continue making 
+steady progress building the metaverse as well.""
+
+steady progress building the metaverse as well.""
+First Quarter 2024 Financial Highlights
+Three Months Ended March 31,
+% ChangeIn millions, except percentages and per share amounts 2024 2023
+Revenue $ 36,455 $ 28,645  27 %
+Costs and expenses  22,637  21,418  6 %
+Income from operations $ 13,818 $ 7,227  91 %
+Operating margin  38 %  25 %
+Provision for income taxes $ 1,814 $ 1,598  14 %
+Effective tax rate  13 %  22 %
+Net income $ 12,369 $ 5,709  117 %
+
+We anticipate our full-year 2024 capital expenditures will be in the range of $35-40 billion, increased from our prior range of 
+$30-37 billion as we continue to accelerate our infrastructure investments to support our artificial intelligence (AI) roadmap. 
+While we are not providing guidance for years beyond 2024, we expect capital expenditures will continue to increase next year 
+as we invest aggressively to support our ambitious AI research and product development efforts.
+
+Structured data:
+{}
+
+Answer the query:
+How much did Meta spend on research and development in Q1 2024?
+$1.7 billion
+Based on the given options, select the option that is correct.
+$1.7 billion
+
+The following statement is a forward-looking statement that we are making in accordance with the requirements of the U.S. Securities and Exchange Commission. This statement is being made ""as of the date of this press release and we undertake no duty to update or revise any forward-looking statements made in this press release as a result of new information or otherwise.
+Cautionary Note Regarding Forward-looking Statements
+This press release includes forward-looking statements based on currently available information. These statements are not promises of future performance and are subject to all risks and uncertainties. Our actual results may differ materially from our anticipated results and we do not make any forward-looking statements regarding the effects of COVID-19 on our business.
+For a discussion of the risks and uncertainties associated with our business, see the Risk Factors section included in this press release.
+COVID-"
+What was the effective tax rate for Meta in Q1 2024?,"
+Text context:
+steady progress building the metaverse as well.""
+First Quarter 2024 Financial Highlights
+Three Months Ended March 31,
+% ChangeIn millions, except percentages and per share amounts 2024 2023
+Revenue $ 36,455 $ 28,645  27 %
+Costs and expenses  22,637  21,418  6 %
+Income from operations $ 13,818 $ 7,227  91 %
+Operating margin  38 %  25 %
+Provision for income taxes $ 1,814 $ 1,598  14 %
+Effective tax rate  13 %  22 %
+Net income $ 12,369 $ 5,709  117 %
+
+Absent any changes to our tax landscape, we expect our full-year 2024 tax rate to be in the mid-teens.
+In addition, we continue to monitor an active regulatory landscape, including the increasing legal and regulatory headwinds in 
+the EU and the U.S. that could significantly impact our business and our financial results.
+Q1 was a good start to the year. We're seeing strong momentum within our Family of Apps and are making important progress
+
+Meta Reports First Quarter 2024 Results
+MENLO PARK, Calif. – April 24, 2024 – Meta Platforms, Inc. (Nasdaq: META) today reported financial results for the quarter 
+ended March 31, 2024.
+""It's been a good start to the year,"" said Mark Zuckerberg, Meta founder and CEO. ""The new version of Meta AI with Llama 3 is 
+another step towards building the world's leading AI. We're seeing healthy growth across our apps and we continue making 
+steady progress building the metaverse as well.""
+
+Structured data:
+{}
+
+Answer the query:
+What was the effective tax rate for Meta in Q1 2024?
+It was 13%
+What was the effective tax rate for Meta in Q4 2023?
+It was 22%
+What was the effective tax rate for Meta in Q3 2023?
+It was 38%
+What was the effective tax rate for Meta in Q2 2023?
+It was 30%
+What revenue did Meta report for Q1 2024?
+$ 36,455
+What revenue did Meta report for Q4 2023?
+$ 28,645
+What revenue did Meta report for Q3 2023?
+$ 21,645
+What revenue did Meta report for Q2 2023?
+$ 22,645
+What revenue did Meta report for Q1 2024?
+$ 22,645
+What revenue did Meta report for Q4 2022?
+$ 21,645
+What revenue did Meta report for Q3 2022?
+$"
+Summarize the segment revenue for Reality Labs in Q1 2024.,"
+Text context:
+8Segment Results
+We report our financial results for our two reportable segments: Family of Apps (FoA) and Reality Labs (RL). FoA includes 
+Facebook, Instagram, Messenger, WhatsApp, and other services. RL includes our virtual, augmented, and mixed reality related 
+consumer hardware, software, and content.
+The following table presents our segment information of revenue and income (loss) from operations:
+Segment Information
+(In millions)
+(Unaudited)
+Three Months Ended March 31,
+2024 2023
+Revenue:
+
+Three Months Ended March 31,
+2024 2023
+Revenue:
+Advertising $ 35,635 $ 28,101 
+Other revenue  380  205 
+Family of Apps  36,015  28,306 
+Reality Labs  440  339 
+Total revenue $ 36,455 $ 28,645 
+Income (loss) from operations:
+Family of Apps $ 17,664 $ 11,219 
+Reality Labs  (3,846)  (3,992) 
+Total income from operations $ 13,818 $ 7,227 
+9Reconciliation of GAAP to Non-GAAP Results
+(In millions, except percentages)
+(Unaudited)
+Three Months Ended March 31,
+2024 2023
+GAAP revenue $ 36,455 $ 28,645
+
+on our longer-term AI and Reality Labs initiatives that have the potential to transform the way people interact with our services 
+over the coming years.
+2Webcast and Conference Call Information
+Meta will host a conference call to discuss the results at 2:00 p.m. PT / 5:00 p.m . ET today. The live webcast of Meta's earnings 
+conference call can be accessed at investor.fb.com, along with the earnings press release, financial tables, and slide presentation.
+
+Structured data:
+{}
+
+Answer the query:
+Summarize the segment revenue for Reality Labs in Q1 2024.
+Reality Labs revenue is expected to grow between 50-75% in Q1 2024."

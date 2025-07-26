@@ -1,0 +1,28 @@
+pypdf
+langchain
+sentence-transformers
+faiss-cpu
+transformers
+camelot-py[cv]
+evaluate
+pandas
+matplotlib
+
+
+This will install:
+
+    pypdf for PDF parsing
+
+    langchain for text splitting helpers
+
+    sentence-transformers & faiss-cpu for embeddings & similarity search
+
+    transformers for LLM pipelines
+
+    camelot-py[cv] for table extraction
+
+    evaluate for BLEU/ROUGE metrics
+
+    pandas for DataFrame handling
+
+    matplotlib (optional) if you generate any plots

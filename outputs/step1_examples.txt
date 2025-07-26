@@ -1,0 +1,126 @@
+Q: What was Meta’s revenue in Q1 2024?
+A: 
+Text context:
+steady progress building the metaverse as well."
+First Quarter 2024 Financial Highlights
+Three Months Ended March 31,
+% ChangeIn millions, except percentages and per share amounts 2024 2023
+Revenue $ 36,455 $ 28,645  27 %
+Costs and expenses  22,637  21,418  6 %
+Income from operations $ 13,818 $ 7,227  91 %
+Operating margin  38 %  25 %
+Provision for income taxes $ 1,814 $ 1,598  14 %
+Effective tax rate  13 %  22 %
+Net income $ 12,369 $ 5,709  117 %
+
+Meta Reports First Quarter 2024 Results
+MENLO PARK, Calif. – April 24, 2024 – Meta Platforms, Inc. (Nasdaq: META) today reported financial results for the quarter 
+ended March 31, 2024.
+"It's been a good start to the year," said Mark Zuckerberg, Meta founder and CEO. "The new version of Meta AI with Llama 3 is 
+another step towards building the world's leading AI. We're seeing healthy growth across our apps and we continue making 
+steady progress building the metaverse as well."
+
+the "Reconciliation of GAAP to Non-GAAP Results" table in this press release.
+4META PLATFORMS, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+(In millions, except per share amounts)
+(Unaudited)
+Three Months Ended March 31,
+2024 2023
+Revenue $ 36,455 $ 28,645 
+Costs and expenses:
+Cost of revenue  6,640  6,108 
+Research and development  9,978  9,381 
+Marketing and sales  2,564  3,044 
+General and administrative  3,455  2,885 
+Total costs and expenses  22,637  21,418
+
+Structured data:
+{}
+
+Answer the query:
+What was Meta’s revenue in Q1 2024?
+{
+Answer:
+$ 36.45 billion
+}
+
+Answer the query:
+What was Meta’s cost of revenue in Q1 2024?
+{
+Answer:
+$ 2.99 billion
+}
+
+Answer the query:
+What was Meta’s operating margin in Q1 2024?
+{
+Answer:
+43.64%
+}
+
+Answer the query:
+What was Meta’s research and development expenses in Q1 2024?
+{
+Answer:
+$ 9,978 million
+}
+
+Answer the query:
+What was Meta’s marketing and sales expenses in Q1 2024?
+{
+Answer:
+$ 2,564 million
+}
+
+Answer the query:
+What was Meta’s general and administrative expenses in Q1 2024?
+{
+Answer:
+$ 3,455 million
+}
+
+Answer the query:
+
+
+Q: What were the key financial highlights for Meta in Q1 2024?
+A: 
+Text context:
+Meta Reports First Quarter 2024 Results
+MENLO PARK, Calif. – April 24, 2024 – Meta Platforms, Inc. (Nasdaq: META) today reported financial results for the quarter 
+ended March 31, 2024.
+"It's been a good start to the year," said Mark Zuckerberg, Meta founder and CEO. "The new version of Meta AI with Llama 3 is 
+another step towards building the world's leading AI. We're seeing healthy growth across our apps and we continue making 
+steady progress building the metaverse as well."
+
+steady progress building the metaverse as well."
+First Quarter 2024 Financial Highlights
+Three Months Ended March 31,
+% ChangeIn millions, except percentages and per share amounts 2024 2023
+Revenue $ 36,455 $ 28,645  27 %
+Costs and expenses  22,637  21,418  6 %
+Income from operations $ 13,818 $ 7,227  91 %
+Operating margin  38 %  25 %
+Provision for income taxes $ 1,814 $ 1,598  14 %
+Effective tax rate  13 %  22 %
+Net income $ 12,369 $ 5,709  117 %
+
+Absent any changes to our tax landscape, we expect our full-year 2024 tax rate to be in the mid-teens.
+In addition, we continue to monitor an active regulatory landscape, including the increasing legal and regulatory headwinds in 
+the EU and the U.S. that could significantly impact our business and our financial results.
+Q1 was a good start to the year. We're seeing strong momentum within our Family of Apps and are making important progress
+
+Structured data:
+{}
+
+Answer the query:
+What were the key financial highlights for Meta in Q1 2024?
+{}
+
+Answer the query:
+Which key financial metrics did Meta see growth in Q1 2024?
+{}
+
+Answer the query:
+Which key financial metrics did Meta see growth in Q1 2024?
+{}
