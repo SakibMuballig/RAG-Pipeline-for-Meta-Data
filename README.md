@@ -1,9 +1,5 @@
 # Retrieval‑Augmented Generation (RAG) Pipeline for Meta Q1 2024 Financial Report
 
-Author: Md. Sakib Muballig  
-Date: July 26, 2025  
-
----
 
 ## 1. Introduction
 
