@@ -13,7 +13,7 @@ Steps overview:
 
 ---
 
-## 2. Step 1: Basic RAG Pipeline
+## 2. Basic RAG Pipeline
 
 ### 2.1 Tools & Libraries
 - PDF parsing: `pypdf`  
